@@ -9,8 +9,8 @@ CXXFLAGS = -Wall -Werror -std=c++17
 
 TARGET = snapper
 SRC = text.cpp window.cpp main.cpp
-HEADER = -I raylib/include/
-LIB = -L raylib/lib -l:libraylib.a
+HEADER = -I vendor/include/
+LIB = -L vendor/lib -l:libraylib.a
 
 build: $(TARGET)
 
