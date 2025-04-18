@@ -14,21 +14,24 @@ It aims to be a simple text editor nothing.
 Follow the given instruction below.
 
 1. Clone the repository
-   Copy and paste the command below in your terminal.
+
+- Copy and paste the command below in your terminal.
 
 ```bash
 git clone https://github.com/csodelinux/snapper
 ```
 
 2. Run the make file
-   In your terminal do the following.
+
+- In your terminal do the following.
 
 ```bash
 make build
 ```
 
 3. Run the program
-   In your terminal paste this
+
+- In your terminal paste this
 
 ```bash
 ./snapper
