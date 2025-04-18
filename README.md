@@ -17,7 +17,7 @@ Follow the given instruction below.
    Copy and paste the command below in your terminal.
 
 ```bash
-    git clone https://github.com/csodelinux/snapper
+git clone https://github.com/csodelinux/snapper
 ```
 
 2. Run the make file
@@ -28,7 +28,8 @@ make build
 ```
 
 3. Run the program
-In your terminal paste this
+   In your terminal paste this
+
 ```bash
 ./snapper
 ```
